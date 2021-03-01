@@ -3,6 +3,9 @@
 In this tutorial you will process a document with a Document AI processor and
 visualize its output.
 
+![boxes](images/SampleOutput.png)
+![table](images/SampleFormFields.png)
+
 ## Prerequisites 
 
 You must be familar GCP and have your own project created.
